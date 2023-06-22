@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Cantons</key>
+	<array>
+		<dict>
+			<key>Code</key>
+			<string>AG</string>
+			<key>Flag</key>
+			<string>AG.png</string>
+			<key>Logincode</key>
+			<string>AG</string>
+			<key>NameDE</key>
+			<string>Aargau</string>
+			<key>NameEN</key>
+			<string>Aargau</string>
+			<key>NameFR</key>
+			<string>Argovie</string>
+			<key>NameIT</key>
+			<string>Argovia</string>
+			<key>Type</key>
+			<integer>1</integer>
+			<key>TypeImg</key>
+			<string>Web.png</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>AI</string>
+			<key>Cost</key>
+			<string>CHF 1.- / SMS</string>
+			<key>Flag</key>
+			<string>AI.png</string>
+			<key>NameDE</key>
+			<string>Appenzell Innerrhoden</string>
+			<key>NameEN</key>
+			<string>Appenzell Innerrhoden</string>
+			<key>NameFR</key>
+			<string>Appenzell Rhodes-Intérieures</string>
+			<key>NameIT</key>
+			<string>Appenzello Interno</string>
+			<key>SMS</key>
+			<string>939</string>
+			<key>TextDE</key>
+			<string>Anfragen sind bei diesem Kanton nur per SMS möglich (COST_KEY, Änderungen vorbehalten). Falls du jetzt ein SMS an den zuständigen Service schicken willst, tippe auf den Button &quot;SMS senden&quot;. </string>
+			<key>TextEN</key>
+			<string>This canton only allows requests per SMS text message (COST_KEY, changes possible). If you would like to send the SMS now, pleas tip on the button &quot;Send SMS&quot; below.</string>
+			<key>TextFR</key>
+			<string>Dans ce canton, on ne peut poser les questions que par SMS (COST_KEY, sous réserve de modifications). Si tu souhaites maintenant envoyer un SMS vers le service compétent, appuie sur le bouton &quot;Envoyer SMS&quot;</string>
+			<key>TextIT</key>
+			<string>Le richieste presso questo cantone sono possibili soltanto via sms (COST_KEY, soggetto a variazioni). Se desideri inviare un sms al servizio competente clicca sul tasto &quot;Inviare SMS&quot;</string>
+			<key>Type</key>
+			<integer>2</integer>
+			<key>TypeImg</key>
+			<string>SMS.png</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>AR</string>
+			<key>Cost</key>
+			<string>CHF 1.- / SMS</string>
+			<key>Flag</key>
+			<string>AR.png</string>
+			<key>NameDE</key>
+			<string>Appenzell Ausserrhoden</string>
+			<key>NameEN</key>
+			<string>Appenzell Ausserrhoden</string>
+			<key>NameFR</key>
+			<string>Appenzell Rhodes-Extérieures</string>
+			<key>NameIT</key>
+			<string>Appenzello Esterno</string>
+			<key>SMS</key>
+			<string>939</string>
+			<key>TextDE</key>
+			<string>Anfragen sind bei diesem Kanton nur per SMS möglich (COST_KEY, Änderungen vorbehalten). Falls du jetzt ein SMS an den zuständigen Service schicken willst, tippe auf den Button &quot;SMS senden&quot;. </string>
+			<key>TextEN</key>
+			<string>This canton only allows requests per SMS text message (COST_KEY, changes possible). If you would like to send the SMS now, pleas tip on the button &quot;Send SMS&quot; below.</string>
+			<key>TextFR</key>
+			<string>Dans ce canton, on ne peut poser les questions que par SMS (COST_KEY, sous réserve de modifications). Si tu souhaites maintenant envoyer un SMS vers le service compétent, appuie sur le bouton &quot;Envoyer SMS&quot;</string>
+			<key>TextIT</key>
+			<string>Le richieste presso questo cantone sono possibili soltanto via sms (COST_KEY, soggetto a variazioni). Se desideri inviare un sms al servizio competente clicca sul tasto &quot;Inviare SMS&quot;</string>
+			<key>Type</key>
+			<integer>2</integer>
+			<key>TypeImg</key>
+			<string>SMS.png</string>
+		</dict>
+		<dict>
+			<key>CaptchaURL</key>
+			<string>http://www.mfk-haltersuche.bl.ch/cari-online/drawCaptcha?rnd=0.6090940899332482</string>
+			<key>Code</key>
+			<string>BL</string>
+			<key>Flag</key>
+			<string>BL.png</string>
+			<key>LoginURL</key>
+			<string>http://www.mfk-haltersuche.bl.ch/cari-online/rechDet</string>
+			<key>NameDE</key>
+			<string>Basel-Landschaft</string>
+			<key>NameEN</key>
+			<string>Basel-Landschaft</string>
+			<key>NameFR</key>
+			<string>Bâle-Campagne</string>
+			<key>NameIT</key>
+			<string>Basilea Campagna</string>
+			<key>QueryURL</key>
+			<string>http://www.mfk-haltersuche.bl.ch/cari-online/rechDet?language=de</string>
+			<key>Type</key>
+			<integer>3</integer>
+			<key>TypeImg</key>
+			<string>Web.png</string>
+			<key>catL</key>
+			<string>1</string>
+			<key>catK</key>
+			<string>2,3</string>
+			<key>catM</key>
+			<string>20</string>
+			<key>catLV</key>
+			<string>4</string>
+			<key>catSchiff</key>
+			<string>21</string>
+			<key>sousCatL</key>
+			<string>1</string>
+			<key>sousCatK</key>
+			<string>1,1</string>
+			<key>sousCatM</key>
+			<string>21</string>
+			<key>sousCatLV</key>
+			<string>1</string>
+			<key>sousCatSchiff</key>
+			<string>11</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>BS</string>
+			<key>Email</key>
+			<string>info.mfkbs@sid.bs.ch</string>
+			<key>Flag</key>
+			<string>BS.png</string>
+			<key>MailSubDE</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailSubEN</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailSubFR</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailSubIT</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailText1</key>
+			<string>Guten Tag,
+</string>
+			<key>MailText2</key>
+			<string>Ich wäre Ihnen sehr dankbar wenn Sie mir die Halterinformationen des Autos mit der Autonummer CARNUMBER schicken könnten. Vielen Dank.
+</string>
+			<key>MailText3</key>
+			<string>Mit freundlichen Grüssen, </string>
+			<key>MailText4</key>
+			<string>IHR NAME/YOUR NAME/VOTRE NOM/TUO NOME</string>
+			<key>NameDE</key>
+			<string>Basel-Stadt</string>
+			<key>NameEN</key>
+			<string>Basel-Stadt</string>
+			<key>NameFR</key>
+			<string>Bâle-Ville</string>
+			<key>NameIT</key>
+			<string>Basilea Città</string>
+			<key>TextDE</key>
+			<string>Anfragen sind bei diesem Kanton nur per Email möglich. Falls du jetzt ein Email an die zuständige Stelle schicken möchtest, tippe auf den Button &quot;Email senden&quot;</string>
+			<key>TextEN</key>
+			<string>This canton only allows requests per email. If you would like to send an email to the canton now, please tip on the button &quot;Send Email&quot; below.</string>
+			<key>TextFR</key>
+			<string>Dans ce canton, on ne peut poser les questions que par email. Si tu veux envoyer maintenant un courriel à l’organisme compétent, appuie sur le bouton &quot;Envoyer email&quot;</string>
+			<key>TextIT</key>
+			<string>Le richieste presso questo cantone sono possibili soltanto via email. Se desideri inviare un email all’ufficio competente clicca sul tasto &quot;Inviare email&quot;</string>
+			<key>Type</key>
+			<integer>4</integer>
+			<key>TypeImg</key>
+			<string>Mail.png</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>BE</string>
+			<key>Cost</key>
+			<string>CHF 1.- / SMS</string>
+			<key>Flag</key>
+			<string>BE.png</string>
+			<key>NameDE</key>
+			<string>Bern</string>
+			<key>NameEN</key>
+			<string>Bern</string>
+			<key>NameFR</key>
+			<string>Berne</string>
+			<key>NameIT</key>
+			<string>Berna</string>
+			<key>SMS</key>
+			<string>939</string>
+			<key>TextDE</key>
+			<string>Anfragen sind bei diesem Kanton nur per SMS möglich (COST_KEY, Änderungen vorbehalten). Falls du jetzt ein SMS an den zuständigen Service schicken willst, tippe auf den Button &quot;SMS senden&quot;. </string>
+			<key>TextEN</key>
+			<string>This canton only allows requests per SMS text message (COST_KEY, changes possible). If you would like to send the SMS now, pleas tip on the button &quot;Send SMS&quot; below.</string>
+			<key>TextFR</key>
+			<string>Dans ce canton, on ne peut poser les questions que par SMS (COST_KEY, sous réserve de modifications). Si tu souhaites maintenant envoyer un SMS vers le service compétent, appuie sur le bouton &quot;Envoyer SMS&quot;</string>
+			<key>TextIT</key>
+			<string>Le richieste presso questo cantone sono possibili soltanto via sms (COST_KEY, soggetto a variazioni). Se desideri inviare un sms al servizio competente clicca sul tasto &quot;Inviare SMS&quot;</string>
+			<key>Type</key>
+			<integer>2</integer>
+			<key>TypeImg</key>
+			<string>SMS.png</string>
+		</dict>
+		<dict>
+			<key>CaptchaURL</key>
+			<string>https://appls2.fr.ch/cari/drawCaptcha?rnd=0.6090940899332482</string>
+			<key>Code</key>
+			<string>FR</string>
+			<key>Flag</key>
+			<string>FR.png</string>
+			<key>LoginURL</key>
+			<string>https://appls2.fr.ch/cari/rechDet</string>
+			<key>NameDE</key>
+			<string>Freiburg</string>
+			<key>NameEN</key>
+			<string>Freiburg</string>
+			<key>NameFR</key>
+			<string>Fribourg</string>
+			<key>NameIT</key>
+			<string>Friburgo</string>
+			<key>QueryURL</key>
+			<string>https://appls2.fr.ch/cari/rechDet?language=de</string>
+			<key>Type</key>
+			<integer>3</integer>
+			<key>TypeImg</key>
+			<string>Web.png</string>
+			<key>catL</key>
+			<string>1</string>
+			<key>catK</key>
+			<string>2,3</string>
+			<key>catM</key>
+			<string>20</string>
+			<key>catLV</key>
+			<string>4</string>
+			<key>catSchiff</key>
+			<string>21</string>
+			<key>sousCatL</key>
+			<string>1</string>
+			<key>sousCatK</key>
+			<string>1,1</string>
+			<key>sousCatM</key>
+			<string>21</string>
+			<key>sousCatLV</key>
+			<string>1</string>
+			<key>sousCatSchiff</key>
+			<string>11</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>GE</string>
+			<key>Cost</key>
+			<string>CHF 10.- / 40.- / Abfrage</string>
+			<key>Flag</key>
+			<string>GE.png</string>
+			<key>NameDE</key>
+			<string>Genf</string>
+			<key>NameEN</key>
+			<string>Genf</string>
+			<key>NameFR</key>
+			<string>Genève</string>
+			<key>NameIT</key>
+			<string>Ginevra</string>
+			<key>HTTP</key>
+			<string>https://ge.ch/traerenseignement/formulaire/Controler?action=login&amp;documentId=demandeRenseignement&amp;mediaType=ji_html&amp;ids=userData,draftData&amp;portal=StandalonePortal</string>
+			<key>TextDE</key>
+			<string>Anfragen sind bei diesem Kanton nur noch über die Webseite des Kantons selbst möglich (COST_KEY). Falls du jetzt Safari öffnen möchtest, tippe auf den Button &quot;Safari öffnen&quot;. </string>
+			<key>TextEN</key>
+			<string>This canton now only allows requests over its own website (COST_KEY). If you would like open Safari now, please tip on the button &quot;Open Safari&quot; below.</string>
+			<key>TextFR</key>
+			<string>Ce canton maintenant seulement autorise les requêtes sur son propre site Internet (COST_KEY). Si tu souhaites maintenant ouvrir Safari, appuie sur le bouton &quot;Ouvrir Safari&quot;</string>
+			<key>TextIT</key>
+			<string>Questo cantone ora permette solo le richieste di oltre il proprio sito web (COST_KEY). Se desideri aprire Safari clicca sul tasto &quot;Apri Safari&quot;</string>
+			<key>Type</key>
+			<integer>8</integer>
+			<key>TypeImg</key>
+			<string>Safari.png</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>GL</string>
+			<key>Cost</key>
+			<string>CHF 1.- / SMS</string>
+			<key>Flag</key>
+			<string>GL.png</string>
+			<key>NameDE</key>
+			<string>Glarus</string>
+			<key>NameEN</key>
+			<string>Glarus</string>
+			<key>NameFR</key>
+			<string>Glaris</string>
+			<key>NameIT</key>
+			<string>Glarona</string>
+			<key>SMS</key>
+			<string>939</string>
+			<key>TextDE</key>
+			<string>Anfragen sind bei diesem Kanton nur per SMS möglich (COST_KEY, Änderungen vorbehalten). Falls du jetzt ein SMS an den zuständigen Service schicken willst, tippe auf den Button &quot;SMS senden&quot;. </string>
+			<key>TextEN</key>
+			<string>This canton only allows requests per SMS text message (COST_KEY, changes possible). If you would like to send the SMS now, pleas tip on the button &quot;Send SMS&quot; below.</string>
+			<key>TextFR</key>
+			<string>Dans ce canton, on ne peut poser les questions que par SMS (COST_KEY, sous réserve de modifications). Si tu souhaites maintenant envoyer un SMS vers le service compétent, appuie sur le bouton &quot;Envoyer SMS&quot;</string>
+			<key>TextIT</key>
+			<string>Le richieste presso questo cantone sono possibili soltanto via sms (COST_KEY, soggetto a variazioni). Se desideri inviare un sms al servizio competente clicca sul tasto &quot;Inviare SMS&quot;</string>
+			<key>Type</key>
+			<integer>2</integer>
+			<key>TypeImg</key>
+			<string>SMS.png</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>GR</string>
+			<key>Cost</key>
+			<string>CHF 1.- / SMS</string>
+			<key>Flag</key>
+			<string>GR.png</string>
+			<key>NameDE</key>
+			<string>Graubünden</string>
+			<key>NameEN</key>
+			<string>Graubünden</string>
+			<key>NameFR</key>
+			<string>Grisons</string>
+			<key>NameIT</key>
+			<string>Grigioni</string>
+			<key>SMS</key>
+			<string>939</string>
+			<key>TextDE</key>
+			<string>Anfragen sind bei diesem Kanton nur per SMS möglich (COST_KEY, Änderungen vorbehalten). Falls du jetzt ein SMS an den zuständigen Service schicken willst, tippe auf den Button &quot;SMS senden&quot;. </string>
+			<key>TextEN</key>
+			<string>This canton only allows requests per SMS text message (COST_KEY, changes possible). If you would like to send the SMS now, pleas tip on the button &quot;Send SMS&quot; below.</string>
+			<key>TextFR</key>
+			<string>Dans ce canton, on ne peut poser les questions que par SMS (COST_KEY, sous réserve de modifications). Si tu souhaites maintenant envoyer un SMS vers le service compétent, appuie sur le bouton &quot;Envoyer SMS&quot;</string>
+			<key>TextIT</key>
+			<string>Le richieste presso questo cantone sono possibili soltanto via sms (COST_KEY, soggetto a variazioni). Se desideri inviare un sms al servizio competente clicca sul tasto &quot;Inviare SMS&quot;</string>
+			<key>Type</key>
+			<integer>2</integer>
+			<key>TypeImg</key>
+			<string>SMS.png</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>JU</string>
+			<key>Flag</key>
+			<string>JU.png</string>
+			<key>NameDE</key>
+			<string>Jura</string>
+			<key>NameEN</key>
+			<string>Jura</string>
+			<key>NameFR</key>
+			<string>Jura</string>
+			<key>NameIT</key>
+			<string>Giura</string>
+			<key>Phone</key>
+			<string>0324207140</string>
+			<key>TextDE</key>
+			<string>Anfragen sind bei diesem Kanton nur telefonisch möglich. Falls du die zuständige Stelle jetzt anrufen willst, tippe auf den Button &quot;Anrufen&quot;.</string>
+			<key>TextEN</key>
+			<string>This canton only allows requests per phone. If you would like to call the canton now, please tip on the button &quot;Call&quot; below.</string>
+			<key>TextFR</key>
+			<string>Dans ce canton, on ne peut poser les questions que par téléphone.  Si tu souhaites appeler maintenant  l&apos;organisme compétent, appuie sur le bouton &quot;Appeler&quot;</string>
+			<key>TextIT</key>
+			<string>Le richieste presso questo cantone sono possibili soltanto telefonicamente. Se desideri chiamare l’ufficio competente clicca sul tasto &quot;Chiamare&quot;</string>
+			<key>Type</key>
+			<integer>5</integer>
+			<key>TypeImg</key>
+			<string>Phone.png</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>LU</string>
+			<key>Flag</key>
+			<string>LU.png</string>
+			<key>Logincode</key>
+			<string>AG</string>
+			<key>NameDE</key>
+			<string>Luzern</string>
+			<key>NameEN</key>
+			<string>Luzern</string>
+			<key>NameFR</key>
+			<string>Lucerne</string>
+			<key>NameIT</key>
+			<string>Lucerna</string>
+			<key>Type</key>
+			<integer>1</integer>
+			<key>TypeImg</key>
+			<string>Web.png</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>NE</string>
+			<key>Email</key>
+			<string>scan@ne.ch</string>
+			<key>Flag</key>
+			<string>NE.png</string>
+			<key>MailSubDE</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailSubEN</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailSubFR</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailSubIT</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailText1</key>
+			<string>Guten Tag,
+</string>
+			<key>MailText2</key>
+			<string>Ich wäre Ihnen sehr dankbar wenn Sie mir die Halterinformationen des Autos mit der Autonummer CARNUMBER schicken könnten. Vielen Dank.
+</string>
+			<key>MailText3</key>
+			<string>Mit freundlichen Grüssen, </string>
+			<key>MailText4</key>
+			<string>IHR NAME/YOUR NAME/VOTRE NOM/TUO NOME</string>
+			<key>NameDE</key>
+			<string>Neuenburg</string>
+			<key>NameEN</key>
+			<string>Neuenburg</string>
+			<key>NameFR</key>
+			<string>Neuchâtel</string>
+			<key>NameIT</key>
+			<string>Neuchâtel</string>
+			<key>TextDE</key>
+			<string>Anfragen sind bei diesem Kanton nur per Email möglich. Falls du jetzt ein Email an die zuständige Stelle schicken möchtest, tippe auf den Button &quot;Email senden&quot;</string>
+			<key>TextEN</key>
+			<string>This canton only allows requests per email. If you would like to send an email to the canton now, please tip on the button &quot;Send Email&quot; below.</string>
+			<key>TextFR</key>
+			<string>Dans ce canton, on ne peut poser les questions que par email. Si tu veux envoyer maintenant un courriel à l’organisme compétent, appuie sur le bouton &quot;Envoyer email&quot;</string>
+			<key>TextIT</key>
+			<string>Le richieste presso questo cantone sono possibili soltanto via email. Se desideri inviare un email all’ufficio competente clicca sul tasto &quot;Inviare email&quot;</string>
+			<key>Type</key>
+			<integer>4</integer>
+			<key>TypeImg</key>
+			<string>Mail.png</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>NW</string>
+			<key>Flag</key>
+			<string>NW.png</string>
+			<key>LoginURL</key>
+			<string>http://baseportal.de/cgi-bin/baseportal.pl?htx=/waeli/main&amp;localparams=1&amp;db=/waeli/autonummern&amp;cmd=search&amp;range=0,20</string>
+			<key>NameDE</key>
+			<string>Nidwalden</string>
+			<key>NameEN</key>
+			<string>Nidwalden</string>
+			<key>NameFR</key>
+			<string>Nidwald</string>
+			<key>NameIT</key>
+			<string>Nidvaldo</string>
+			<key>QueryURL</key>
+			<string>http://www.wae.li/wae/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=86</string>
+			<key>Type</key>
+			<integer>6</integer>
+			<key>TypeImg</key>
+			<string>Web.png</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>OW</string>
+			<key>Email</key>
+			<string>info@vsz.ch</string>
+			<key>Flag</key>
+			<string>OW.png</string>
+			<key>MailSubDE</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailSubEN</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailSubFR</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailSubIT</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailText1</key>
+			<string>Guten Tag,
+</string>
+			<key>MailText2</key>
+			<string>Ich wäre Ihnen sehr dankbar wenn Sie mir die Halterinformationen des Autos mit der Autonummer CARNUMBER schicken könnten. Vielen Dank.
+</string>
+			<key>MailText3</key>
+			<string>Mit freundlichen Grüssen, </string>
+			<key>MailText4</key>
+			<string>IHR NAME/YOUR NAME/VOTRE NOM/TUO NOME</string>
+			<key>NameDE</key>
+			<string>Obwalden</string>
+			<key>NameEN</key>
+			<string>Obwalden</string>
+			<key>NameFR</key>
+			<string>Obwald</string>
+			<key>NameIT</key>
+			<string>Obvaldo</string>
+			<key>TextDE</key>
+			<string>Anfragen sind bei diesem Kanton nur per Email möglich. Falls du jetzt ein Email an die zuständige Stelle schicken möchtest, tippe auf den Button &quot;Email senden&quot;</string>
+			<key>TextEN</key>
+			<string>This canton only allows requests per email. If you would like to send an email to the canton now, please tip on the button &quot;Send Email&quot; below.</string>
+			<key>TextFR</key>
+			<string>Dans ce canton, on ne peut poser les questions que par email. Si tu veux envoyer maintenant un courriel à l’organisme compétent, appuie sur le bouton &quot;Envoyer email&quot;</string>
+			<key>TextIT</key>
+			<string>Le richieste presso questo cantone sono possibili soltanto via email. Se desideri inviare un email all’ufficio competente clicca sul tasto &quot;Inviare email&quot;</string>
+			<key>Type</key>
+			<integer>4</integer>
+			<key>TypeImg</key>
+			<string>Mail.png</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>SG</string>
+			<key>Cost</key>
+			<string>CHF 1.- / SMS</string>
+			<key>Flag</key>
+			<string>SG.png</string>
+			<key>NameDE</key>
+			<string>St. Gallen</string>
+			<key>NameEN</key>
+			<string>St. Gallen</string>
+			<key>NameFR</key>
+			<string>Saint-Gall</string>
+			<key>NameIT</key>
+			<string>San Gallo</string>
+			<key>SMS</key>
+			<string>939</string>
+			<key>TextDE</key>
+			<string>Anfragen sind bei diesem Kanton nur per SMS möglich (COST_KEY, Änderungen vorbehalten). Falls du jetzt ein SMS an den zuständigen Service schicken willst, tippe auf den Button &quot;SMS senden&quot;. </string>
+			<key>TextEN</key>
+			<string>This canton only allows requests per SMS text message (COST_KEY, changes possible). If you would like to send the SMS now, pleas tip on the button &quot;Send SMS&quot; below.</string>
+			<key>TextFR</key>
+			<string>Dans ce canton, on ne peut poser les questions que par SMS (COST_KEY, sous réserve de modifications). Si tu souhaites maintenant envoyer un SMS vers le service compétent, appuie sur le bouton &quot;Envoyer SMS&quot;</string>
+			<key>TextIT</key>
+			<string>Le richieste presso questo cantone sono possibili soltanto via sms (COST_KEY, soggetto a variazioni). Se desideri inviare un sms al servizio competente clicca sul tasto &quot;Inviare SMS&quot;</string>
+			<key>Type</key>
+			<integer>2</integer>
+			<key>TypeImg</key>
+			<string>SMS.png</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>SH</string>
+			<key>Flag</key>
+			<string>SH.png</string>
+			<key>Logincode</key>
+			<string>SH</string>
+			<key>NameDE</key>
+			<string>Schaffhausen</string>
+			<key>NameEN</key>
+			<string>Schaffhausen</string>
+			<key>NameFR</key>
+			<string>Schaffhouse</string>
+			<key>NameIT</key>
+			<string>Sciaffusa</string>
+			<key>Type</key>
+			<integer>1</integer>
+			<key>TypeImg</key>
+			<string>Web.png</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>SO</string>
+			<key>Cost</key>
+			<string>CHF 1.- / SMS</string>
+			<key>Flag</key>
+			<string>SO.png</string>
+			<key>NameDE</key>
+			<string>Solothurn</string>
+			<key>NameEN</key>
+			<string>Solothurn</string>
+			<key>NameFR</key>
+			<string>Soleure</string>
+			<key>NameIT</key>
+			<string>Soletta</string>
+			<key>SMS</key>
+			<string>939</string>
+			<key>TextDE</key>
+			<string>Anfragen sind bei diesem Kanton nur per SMS möglich (COST_KEY, Änderungen vorbehalten). Falls du jetzt ein SMS an den zuständigen Service schicken willst, tippe auf den Button &quot;SMS senden&quot;. </string>
+			<key>TextEN</key>
+			<string>This canton only allows requests per SMS text message (COST_KEY, changes possible). If you would like to send the SMS now, pleas tip on the button &quot;Send SMS&quot; below.</string>
+			<key>TextFR</key>
+			<string>Dans ce canton, on ne peut poser les questions que par SMS (COST_KEY, sous réserve de modifications). Si tu souhaites maintenant envoyer un SMS vers le service compétent, appuie sur le bouton &quot;Envoyer SMS&quot;</string>
+			<key>TextIT</key>
+			<string>Le richieste presso questo cantone sono possibili soltanto via sms (COST_KEY, soggetto a variazioni). Se desideri inviare un sms al servizio competente clicca sul tasto &quot;Inviare SMS&quot;</string>
+			<key>Type</key>
+			<integer>2</integer>
+			<key>TypeImg</key>
+			<string>SMS.png</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>SZ</string>
+			<key>Flag</key>
+			<string>SZ.png</string>
+			<key>NameDE</key>
+			<string>Schwyz</string>
+			<key>NameEN</key>
+			<string>Schwyz</string>
+			<key>NameFR</key>
+			<string>Schwyz</string>
+			<key>NameIT</key>
+			<string>Svitto</string>
+			<key>Phone</key>
+			<string>0418191124</string>
+			<key>TextDE</key>
+			<string>Anfragen sind bei diesem Kanton nur telefonisch möglich. Falls du die zuständige Stelle jetzt anrufen willst, tippe auf den Button &quot;Anrufen&quot;.</string>
+			<key>TextEN</key>
+			<string>This canton only allows requests per phone. If you would like to call the canton now, please tip on the button &quot;Call&quot; below.</string>
+			<key>TextFR</key>
+			<string>Dans ce canton, on ne peut poser les questions que par téléphone.  Si tu souhaites appeler maintenant  l&apos;organisme compétent, appuie sur le bouton &quot;Appeler&quot;</string>
+			<key>TextIT</key>
+			<string>Le richieste presso questo cantone sono possibili soltanto telefonicamente. Se desideri chiamare l’ufficio competente clicca sul tasto &quot;Chiamare&quot;</string>
+			<key>Type</key>
+			<integer>5</integer>
+			<key>TypeImg</key>
+			<string>Phone.png</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>TG</string>
+			<key>Cost</key>
+			<string>CHF 1.- / SMS</string>
+			<key>Flag</key>
+			<string>TG.png</string>
+			<key>NameDE</key>
+			<string>Thurgau</string>
+			<key>NameEN</key>
+			<string>Thurgau</string>
+			<key>NameFR</key>
+			<string>Thurgovie</string>
+			<key>NameIT</key>
+			<string>Turgovia</string>
+			<key>SMS</key>
+			<string>939</string>
+			<key>TextDE</key>
+			<string>Anfragen sind bei diesem Kanton nur per SMS möglich (COST_KEY, Änderungen vorbehalten). Falls du jetzt ein SMS an den zuständigen Service schicken willst, tippe auf den Button &quot;SMS senden&quot;. </string>
+			<key>TextEN</key>
+			<string>This canton only allows requests per SMS text message (COST_KEY, changes possible). If you would like to send the SMS now, pleas tip on the button &quot;Send SMS&quot; below.</string>
+			<key>TextFR</key>
+			<string>Dans ce canton, on ne peut poser les questions que par SMS (COST_KEY, sous réserve de modifications). Si tu souhaites maintenant envoyer un SMS vers le service compétent, appuie sur le bouton &quot;Envoyer SMS&quot;</string>
+			<key>TextIT</key>
+			<string>Le richieste presso questo cantone sono possibili soltanto via sms (COST_KEY, soggetto a variazioni). Se desideri inviare un sms al servizio competente clicca sul tasto &quot;Inviare SMS&quot;</string>
+			<key>Type</key>
+			<integer>2</integer>
+			<key>TypeImg</key>
+			<string>SMS.png</string>
+		</dict>
+		<dict>
+			<key>CaptchaURLL</key>
+			<string>http://www4.ti.ch/user_librerie/phpcaptcha/securimage_show.php?sid=0.6090940899332482</string>
+			<key>CaptchaURLK</key>
+			<string>http://www4.ti.ch/user_librerie/phpcaptcha/securimage_show.php?sid=0.6090940899332482</string>
+			<key>CaptchaURLM</key>
+			<string>http://www4.ti.ch/user_librerie/phpcaptcha/securimage_show.php?sid=0.6090940899332482</string>
+			<key>CaptchaURLLV</key>
+			<string>http://www4.ti.ch/user_librerie/phpcaptcha/securimage_show.php?sid=0.6090940899332482</string>
+			<key>CaptchaURLSchiff</key>
+			<string>http://www4.ti.ch/user_librerie/phpcaptcha/securimage_show.php?sid=0.6090940899332482</string>
+			<key>Code</key>
+			<string>TI</string>
+			<key>Flag</key>
+			<string>TI.png</string>
+			<key>LoginURLL</key>
+			<string>http://www4.ti.ch/di/sc/sportello/elenco-targhe/#type11</string>
+			<key>LoginURLK</key>
+			<string>http://www4.ti.ch/di/sc/sportello/elenco-targhe/motoveicoli/#type16</string>
+			<key>LoginURLM</key>
+			<string>http://www4.ti.ch/di/sc/sportello/elenco-targhe/motoleggere/#type15</string>
+			<key>LoginURLLV</key>
+			<string>http://www4.ti.ch/di/sc/sportello/elenco-targhe/veicoli-agricoli/#type23</string>
+			<key>LoginURLSchiff</key>
+			<string>http://www4.ti.ch/di/sc/sportello/elenco-targhe/natanti/#type40-41-42</string>
+			<key>NameDE</key>
+			<string>Tessin</string>
+			<key>NameEN</key>
+			<string>Tessin</string>
+			<key>NameFR</key>
+			<string>Tessin</string>
+			<key>NameIT</key>
+			<string>Ticino</string>
+			<key>QueryURLL</key>
+			<string>http://www4.ti.ch/index.php?id=24347</string>
+			<key>QueryURLK</key>
+			<string>http://www4.ti.ch/index.php?id=25298</string>
+			<key>QueryURLM</key>
+			<string>http://www4.ti.ch/index.php?id=25296</string>
+			<key>QueryURLLV</key>
+			<string>http://www4.ti.ch/index.php?id=25306</string>
+			<key>QueryURLSchiff</key>
+			<string>http://www4.ti.ch/index.php?id=25312</string>
+			<key>Type</key>
+			<integer>7</integer>
+			<key>TypeImg</key>
+			<string>Web.png</string>
+			<key>CodiceL</key>
+			<string>11</string>
+			<key>CodiceK</key>
+			<string>16</string>
+			<key>CodiceM</key>
+			<string>15</string>
+			<key>CodiceLV</key>
+			<string>23</string>
+			<key>CodiceSchiff</key>
+			<string>40,41,42</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>UR</string>
+			<key>Email</key>
+			<string>albert.zopp@ur.ch</string>
+			<key>Flag</key>
+			<string>UR.png</string>
+			<key>MailSubDE</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailSubEN</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailSubFR</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailSubIT</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailText1</key>
+			<string>Guten Tag,
+</string>
+			<key>MailText2</key>
+			<string>Ich wäre Ihnen sehr dankbar wenn Sie mir die Halterinformationen des Autos mit der Autonummer CARNUMBER schicken könnten. Vielen Dank.
+</string>
+			<key>MailText3</key>
+			<string>Mit freundlichen Grüssen, </string>
+			<key>MailText4</key>
+			<string>IHR NAME/YOUR NAME/VOTRE NOM/TUO NOME</string>
+			<key>NameDE</key>
+			<string>Uri</string>
+			<key>NameEN</key>
+			<string>Uri</string>
+			<key>NameFR</key>
+			<string>Uri</string>
+			<key>NameIT</key>
+			<string>Uri</string>
+			<key>TextDE</key>
+			<string>Anfragen sind bei diesem Kanton nur per Email möglich. Falls du jetzt ein Email an die zuständige Stelle schicken möchtest, tippe auf den Button &quot;Email senden&quot;</string>
+			<key>TextEN</key>
+			<string>This canton only allows requests per email. If you would like to send an email to the canton now, please tip on the button &quot;Send Email&quot; below.</string>
+			<key>TextFR</key>
+			<string>Dans ce canton, on ne peut poser les questions que par email. Si tu veux envoyer maintenant un courriel à l’organisme compétent, appuie sur le bouton &quot;Envoyer email&quot;</string>
+			<key>TextIT</key>
+			<string>Le richieste presso questo cantone sono possibili soltanto via email. Se desideri inviare un email all’ufficio competente clicca sul tasto &quot;Inviare email&quot;</string>
+			<key>Type</key>
+			<integer>4</integer>
+			<key>TypeImg</key>
+			<string>Mail.png</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>VD</string>
+			<key>Email</key>
+			<string>san.call-center@vd.ch</string>
+			<key>Flag</key>
+			<string>VD.png</string>
+			<key>MailSubDE</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailSubEN</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailSubFR</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailSubIT</key>
+			<string>Auskunft Kennzeichen CARNUMBER</string>
+			<key>MailText1</key>
+			<string>Guten Tag,
+</string>
+			<key>MailText2</key>
+			<string>Ich wäre Ihnen sehr dankbar wenn Sie mir die Halterinformationen des Autos mit der Autonummer CARNUMBER schicken könnten. Vielen Dank.
+</string>
+			<key>MailText3</key>
+			<string>Mit freundlichen Grüssen, </string>
+			<key>MailText4</key>
+			<string>IHR NAME/YOUR NAME/VOTRE NOM/TUO NOME</string>
+			<key>NameDE</key>
+			<string>Waadt</string>
+			<key>NameEN</key>
+			<string>Waadt</string>
+			<key>NameFR</key>
+			<string>Vaud</string>
+			<key>NameIT</key>
+			<string>Vaud</string>
+			<key>TextDE</key>
+			<string>Anfragen sind bei diesem Kanton nur per Email möglich. Falls du jetzt ein Email an die zuständige Stelle schicken möchtest, tippe auf den Button &quot;Email senden&quot;</string>
+			<key>TextEN</key>
+			<string>This canton only allows requests per email. If you would like to send an email to the canton now, please tip on the button &quot;Send Email&quot; below.</string>
+			<key>TextFR</key>
+			<string>Dans ce canton, on ne peut poser les questions que par email. Si tu veux envoyer maintenant un courriel à l’organisme compétent, appuie sur le bouton &quot;Envoyer email&quot;</string>
+			<key>TextIT</key>
+			<string>Le richieste presso questo cantone sono possibili soltanto via email. Se desideri inviare un email all’ufficio competente clicca sul tasto &quot;Inviare email&quot;</string>
+			<key>Type</key>
+			<integer>4</integer>
+			<key>TypeImg</key>
+			<string>Mail.png</string>
+		</dict>
+		<dict>
+			<key>CaptchaURL</key>
+			<string>http://www.vs.ch/cari-online/drawCaptcha?rnd=0.6090940899332482</string>
+			<key>Code</key>
+			<string>VS</string>
+			<key>Flag</key>
+			<string>VS.png</string>
+			<key>LoginURL</key>
+			<string>http://www.vs.ch/cari-online/rechDet</string>
+			<key>NameDE</key>
+			<string>Wallis</string>
+			<key>NameEN</key>
+			<string>Wallis</string>
+			<key>NameFR</key>
+			<string>Valais</string>
+			<key>NameIT</key>
+			<string>Vallese</string>
+			<key>QueryURL</key>
+			<string>http://www.vs.ch/cari-online/rechDet?language=de</string>
+			<key>Type</key>
+			<integer>3</integer>
+			<key>TypeImg</key>
+			<string>Web.png</string>
+			<key>catL</key>
+			<string>1</string>
+			<key>catK</key>
+			<string>2,3</string>
+			<key>catM</key>
+			<string>20</string>
+			<key>catLV</key>
+			<string>4</string>
+			<key>catSchiff</key>
+			<string>21</string>
+			<key>sousCatL</key>
+			<string>1</string>
+			<key>sousCatK</key>
+			<string>1,1</string>
+			<key>sousCatM</key>
+			<string>21</string>
+			<key>sousCatLV</key>
+			<string>1</string>
+			<key>sousCatSchiff</key>
+			<string>11</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>ZG</string>
+			<key>Flag</key>
+			<string>ZG.png</string>
+			<key>Logincode</key>
+			<string>ZG</string>
+			<key>NameDE</key>
+			<string>Zug</string>
+			<key>NameEN</key>
+			<string>Zug</string>
+			<key>NameFR</key>
+			<string>Zoug</string>
+			<key>NameIT</key>
+			<string>Zugo</string>
+			<key>Type</key>
+			<integer>1</integer>
+			<key>TypeImg</key>
+			<string>Web.png</string>
+		</dict>
+		<dict>
+			<key>Code</key>
+			<string>ZH</string>
+			<key>Flag</key>
+			<string>ZH.png</string>
+			<key>Logincode</key>
+			<string>ZH</string>
+			<key>NameDE</key>
+			<string>Zürich</string>
+			<key>NameEN</key>
+			<string>Zürich</string>
+			<key>NameFR</key>
+			<string>Zurich</string>
+			<key>NameIT</key>
+			<string>Zurigo</string>
+			<key>Type</key>
+			<integer>1</integer>
+			<key>TypeImg</key>
+			<string>Web.png</string>
+		</dict>
+	</array>
+</dict>
+</plist>
